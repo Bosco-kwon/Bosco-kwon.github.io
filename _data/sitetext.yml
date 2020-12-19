@@ -1,6 +1,6 @@
 header:
     title: Welcome to Bosco's Page!
-    text: It's Good To See You
+    text: It's Good To See You!
     button: Tell Me More
     buttonlink: "#services"
 
@@ -20,8 +20,8 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Dev Skills"
+    text: "Full Stack Web Dev Skill & Data Handling Skill"
     section: portfolio
     closebutton: "Close Project"
     
@@ -56,11 +56,6 @@ timeline:
         # you can enforce the aligment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
 clients:
     section: clients
