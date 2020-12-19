@@ -62,19 +62,15 @@ clients:
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
+      - title: "furence"
+        url: http://www.furence.co.kr/
+        logo: assets/img/clients/furence.png
+      - title: "ainet"
+        url: http://www.ai-net.kr/
+        logo: assets/img/clients/AI.png
+      - title: "f1security"
+        url: http://www.f1security.co.kr/
+        logo: assets/img/clients/f1.png
           
 contact:
     title: "Contact Me"
