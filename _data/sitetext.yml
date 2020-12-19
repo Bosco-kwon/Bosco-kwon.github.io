@@ -77,7 +77,9 @@ clients:
           
 contact:
     title: "Contact Me"
-    text: "Call +821051109819 or Send a Mail ggnet2@hanmail.net "
+    text: "Whenever You Want!"
+    phone : "+82-10-5110-9819"
+    email : "ggnet2@hanmail.net"
     section: contact
     
 footer:
