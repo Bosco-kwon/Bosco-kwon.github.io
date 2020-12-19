@@ -1,18 +1,12 @@
 nav:
-  - title: "Services"
+  - title: "Business Talents"
     section: services
 
-  - title: "Portfolio"
+  - title: "Dev Skills"
     section: portfolio
     
-  - title: "About"
+  - title: "About Bosco"
     section: timeline
-
-  - title: "Team"
-    section: team
 
   - title: "Contact"
     section: contact
-
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
