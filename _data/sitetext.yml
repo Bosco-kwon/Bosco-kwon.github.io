@@ -64,13 +64,13 @@ clients:
     list:
       - title: "furence"
         url: http://www.furence.co.kr/
-        logo: assets/img/clients/furence.png
+        logo: assets/img/furence.png
       - title: "ainet"
         url: http://www.ai-net.kr/
-        logo: assets/img/clients/AI.png
+        logo: assets/img/AI.png
       - title: "f1security"
         url: http://www.f1security.co.kr/
-        logo: assets/img/clients/f1.png
+        logo: assets/img/f1.png
           
 contact:
     title: "Contact Me"
