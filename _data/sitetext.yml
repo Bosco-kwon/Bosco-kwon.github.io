@@ -71,6 +71,9 @@ clients:
       - title: "f1security"
         url: http://www.f1security.co.kr/
         logo: assets/img/f1.png
+      - title: "midfield meat"
+        url: https://midfield.com.au/
+        logo: assets/img/md.png        
           
 contact:
     title: "Contact Me"
