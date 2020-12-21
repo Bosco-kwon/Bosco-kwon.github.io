@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: DataBase
+subtitle: DB Query
 image: assets/img/portfolio/03-thumbnail.png
 alt: Keep Exploring
 
@@ -9,10 +9,10 @@ caption:
   subtitle: Graphic Design
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+다양한 SQL을 사용하여 프로젝트를 진행해보았습니다.
+
+Oracle SQL, MySQL, PostgreSQL 등을 사용해보았으며
+
+기본 CRUD 쿼리 및 Join 쿼리 등 다양한 쿼리를 작성해보았습니다.
 
