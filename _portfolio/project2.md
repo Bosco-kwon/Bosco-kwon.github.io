@@ -5,8 +5,8 @@ image: assets/img/portfolio/03-thumbnail.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: DataBase
+  subtitle: DB Query
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
 
