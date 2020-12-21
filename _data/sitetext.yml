@@ -27,35 +27,35 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "About Bosco" 
+    text: "Focus on Capability"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "경영데이터 분석을 위한 기반 지식"
+        year: "When I Was Student"
+        desc: "경희대학교 무역학부를 다녔으며, 그 곳에서 글로벌 경영을 위한 기본 상식 및 교양을 익혔습니다. 각종 산출물 작성을 위한 MS-Office 사용법 및 SPSS를 통한 경영데이터 분석이 대표적인 예입니다."
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "다양한 해외경험"
+        year: "After Graduate"
+        desc: "대학교 산하 NGO단체 (캄보디아)에서 일하며 기본적인 사무를 익혔으며 (회의록 작성 및 각종 사무서류 작성) 호주에서 2년 반 동안 일하며 Global Communication Skill을 갈고 닦았습니다."
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "IT분야에 입문"
+        year: "New Challenge"
+        desc: "현 시대의 트렌드에 맞추고, 변화의 물결속에서 살아남기 위해 과감히 새로운 분야에 도전했습니다. 빅데이터 분석 교육코스를 이수하고, 기업연수원에서 추가로 Java & Spring을 배웠으며, 현업에서 웹 개발 프로젝트를 진행하며 경력을 쌓았습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "BigData로의 새로운 도약"
+        year: "Here and Now"
+        desc: "빅데이터 분야는 신입을 많이 뽑지 않았기에 웹 개발자로서 경력을 쌓으며 기회를 기다렸습니다. 그러던 중 저에게 새로운 기회가 주어졌고, 빅데이터 관련 프로젝트에 참여하게 되었습니다."
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Future!"
 
 clients:
     section: clients
