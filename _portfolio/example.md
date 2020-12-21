@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: Full Stack Web Dev
+  subtitle: Front-end based on HTML5 & Vue.js and Back-end based on Spring(Java)
   thumbnail: assets/img/portfolio/01-thumbnail.png
   
 #what displays when the item is clicked:
